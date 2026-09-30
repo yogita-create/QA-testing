@@ -1,1 +1,2 @@
-# QA-testing  LEARNING ABOUT THE SOFTWARE TESTING FUNDAMENTALS
+# QA-testing  
+fundamentals of manual and automation testing
